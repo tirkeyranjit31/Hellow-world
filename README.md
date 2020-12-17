@@ -9,7 +9,7 @@ First test code
 int main ()
 
 {
-  printf("Hellow world"):
-  printf("\n This is my first webpage."):
+  printf("Hellow world");
+  printf("\n This is my first webpage.");
   return 0:
 }
